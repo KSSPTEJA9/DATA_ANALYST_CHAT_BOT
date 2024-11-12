@@ -9,5 +9,4 @@ sentence_transformers
 faiss_cpu
 pandas
 llama-cpp-python
-cmake
-pybind11
+
