@@ -8,4 +8,4 @@ transformers
 sentence_transformers
 faiss_cpu
 pandas
-llama_cpp
+llama-cpp-python
