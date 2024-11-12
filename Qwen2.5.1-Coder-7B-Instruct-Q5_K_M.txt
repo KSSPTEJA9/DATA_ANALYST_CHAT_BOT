@@ -1,0 +1,2 @@
+link to download this model for this to work
+https://huggingface.co/bartowski/Qwen2.5.1-Coder-7B-Instruct-GGUF/tree/main
